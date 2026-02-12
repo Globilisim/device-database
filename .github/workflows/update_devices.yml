@@ -1,0 +1,26 @@
+name: Update Device Database
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Her Pazar gece yarısı otomatik çalışır
+  workflow_dispatch: # İstediğiniz an elle çalıştırmak için buton çıkarır
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install pandas requests
+      - name: Run Update Script
+        run: python update_list.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "DeviceBot"
+          git config --global user.email "bot@github.com"
+          git add universal-devices.json
+          git commit -m "Cihaz listesi otomatik güncellendi" || exit 0
+          git push
