@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12",
+  "lastUpdated": "2026-02-15",
   "devices": [
     {
       "brand": "Casper",
@@ -32268,6 +32268,12 @@
       "codename": "TECNO-CN5c",
       "model": "TECNO CN5c",
       "marketName": "TECNO CAMON 50 Pro"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-CN7c",
+      "model": "TECNO CN7c",
+      "marketName": "TECNO CAMON 50 Pro 5G"
     },
     {
       "brand": "Tecno",
