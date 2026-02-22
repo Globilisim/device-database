@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15",
+  "lastUpdated": "2026-02-22",
   "devices": [
     {
       "brand": "Casper",
@@ -2028,6 +2028,12 @@
       "codename": "Infinix-X6857B",
       "model": "Infinix X6857B",
       "marketName": "NOTE 50X 5G"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6878",
+      "model": "Infinix X6878",
+      "marketName": "NOTE 60 Pro"
     },
     {
       "brand": "Infinix",
