@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22",
+  "lastUpdated": "2026-03-01",
   "devices": [
     {
       "brand": "Casper",
@@ -3647,6 +3647,12 @@
       "brand": "Oppo",
       "codename": "OP61C7L1",
       "model": "PMC110",
+      "marketName": "A6c"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP632F",
+      "model": "CPH2895",
       "marketName": "A6c"
     },
     {
@@ -8700,6 +8706,12 @@
       "codename": "onyx",
       "model": "25053RT47C",
       "marketName": "REDMI Turbo 4 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "dash",
+      "model": "2602BRT18C",
+      "marketName": "REDMI Turbo 5 Max"
     },
     {
       "brand": "Redmi",
@@ -23058,6 +23070,174 @@
       "codename": "pa2q",
       "model": "SM-S936W",
       "marketName": "Galaxy S25+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SC-51G",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SCG36",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S9420",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942C",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942Q",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942U",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942U1",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942W",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1q",
+      "model": "SM-S942Z",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SC-53G",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SCG37",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S9480",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948B",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948C",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948N",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948Q",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948U1",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948W",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948Z",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SC-52G",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SCG38",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S9470",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947C",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947Q",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947U",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947U1",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947W",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2q",
+      "model": "SM-S947Z",
+      "marketName": "Galaxy S26+"
     },
     {
       "brand": "Samsung",
@@ -38871,6 +39051,12 @@
     },
     {
       "brand": "Xiaomi",
+      "codename": "furiosa",
+      "model": "MiTV-AXFU1",
+      "marketName": "MiTV"
+    },
+    {
+      "brand": "Xiaomi",
       "codename": "hermano",
       "model": "MiTV-MOSR0",
       "marketName": "MiTV"
@@ -38951,6 +39137,12 @@
       "brand": "Xiaomi",
       "codename": "river",
       "model": "MiTV-MZTU0",
+      "marketName": "MiTV"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "stepup",
+      "model": "MiTV-MZTU1",
       "marketName": "MiTV"
     },
     {
