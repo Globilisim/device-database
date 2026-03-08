@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01",
+  "lastUpdated": "2026-03-08",
   "devices": [
     {
       "brand": "Casper",
@@ -609,6 +609,12 @@
     },
     {
       "brand": "General Mobile",
+      "codename": "G905",
+      "model": "G905",
+      "marketName": "GM 26 5G"
+    },
+    {
+      "brand": "General Mobile",
       "codename": "GM6_d_sprout",
       "model": "GM 6 d",
       "marketName": "GM 6 d"
@@ -798,6 +804,12 @@
       "codename": "Infinix-X6873",
       "model": "Infinix X6873",
       "marketName": "GT 30 Pro"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6891",
+      "model": "Infinix X6891",
+      "marketName": "GT 50 Pro"
     },
     {
       "brand": "Infinix",
@@ -10848,6 +10860,12 @@
       "codename": "S919",
       "model": "S919",
       "marketName": "S919"
+    },
+    {
+      "brand": "Reeder",
+      "codename": "S919_SE",
+      "model": "S919 SE",
+      "marketName": "S919_SE"
     },
     {
       "brand": "Reeder",
@@ -23127,6 +23145,18 @@
     },
     {
       "brand": "Samsung",
+      "codename": "m1s",
+      "model": "SM-S942B",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m1s",
+      "model": "SM-S942N",
+      "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
       "codename": "m3q",
       "model": "SC-53G",
       "marketName": "Galaxy S26 Ultra"
@@ -23165,6 +23195,12 @@
       "brand": "Samsung",
       "codename": "m3q",
       "model": "SM-S948Q",
+      "marketName": "Galaxy S26 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m3q",
+      "model": "SM-S948U",
       "marketName": "Galaxy S26 Ultra"
     },
     {
@@ -23237,6 +23273,18 @@
       "brand": "Samsung",
       "codename": "m2q",
       "model": "SM-S947Z",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2s",
+      "model": "SM-S947B",
+      "marketName": "Galaxy S26+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m2s",
+      "model": "SM-S947N",
       "marketName": "Galaxy S26+"
     },
     {
@@ -39849,6 +39897,12 @@
     },
     {
       "brand": "Xiaomi",
+      "codename": "pudding",
+      "model": "25113PN0EG",
+      "marketName": "Xiaomi 17"
+    },
+    {
+      "brand": "Xiaomi",
       "codename": "pandora",
       "model": "25098PN5AC",
       "marketName": "Xiaomi 17 Pro"
@@ -39863,6 +39917,18 @@
       "brand": "Xiaomi",
       "codename": "nezha",
       "model": "2512BPNDAC",
+      "marketName": "Xiaomi 17 Ultra"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "nezha",
+      "model": "2512BPNDAG",
+      "marketName": "Xiaomi 17 Ultra"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "nezha",
+      "model": "2512BPNDAI",
       "marketName": "Xiaomi 17 Ultra"
     },
     {
