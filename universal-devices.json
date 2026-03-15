@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08",
+  "lastUpdated": "2026-03-15",
   "devices": [
     {
       "brand": "Casper",
@@ -1668,6 +1668,12 @@
       "codename": "Infinix-X6879",
       "model": "Infinix X6879",
       "marketName": "Infinix NOTE 60"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6877",
+      "model": "Infinix X6877",
+      "marketName": "Infinix NOTE 60 Ultra"
     },
     {
       "brand": "Infinix",
@@ -3675,6 +3681,18 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP5F2BL1",
+      "model": "CPH2789",
+      "marketName": "A6s 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5F2BL1",
+      "model": "CPH2889",
+      "marketName": "A6s 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP62A3L1",
       "model": "CPH2847",
       "marketName": "A6t"
@@ -3690,6 +3708,12 @@
       "codename": "OP62A3L1",
       "model": "CPH2849",
       "marketName": "A6t Pro"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5F2BL1",
+      "model": "CPH2851",
+      "marketName": "A6t Pro 5G"
     },
     {
       "brand": "Oppo",
@@ -5055,6 +5079,18 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP5F2BL1",
+      "model": "CPH2869",
+      "marketName": "K14 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5F2BL1",
+      "model": "CPH2871",
+      "marketName": "K14x 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP4679",
       "model": "PCGM00",
       "marketName": "K3"
@@ -5736,6 +5772,18 @@
       "codename": "OP5DE2L1",
       "model": "PLL110",
       "marketName": "PLL110"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5E1EL1",
+      "model": "PLT120",
+      "marketName": "PLT120"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5E1EL1",
+      "model": "PLT130",
+      "marketName": "PLT130"
     },
     {
       "brand": "Oppo",
@@ -7494,6 +7542,12 @@
       "codename": "tornado",
       "model": "2508CPC2BI",
       "marketName": "POCO C85 5G"
+    },
+    {
+      "brand": "POCO",
+      "codename": "somalia",
+      "model": "26020PC1AI",
+      "marketName": "POCO C85x 5G"
     },
     {
       "brand": "POCO",
@@ -33189,9 +33243,33 @@
     },
     {
       "brand": "Tecno",
+      "codename": "TECNO-KN4",
+      "model": "TECNO KN4",
+      "marketName": "TECNO SPARK 50"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KN4n",
+      "model": "TECNO KN4n",
+      "marketName": "TECNO SPARK 50"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KN8",
+      "model": "TECNO KN8",
+      "marketName": "TECNO SPARK 50 5G"
+    },
+    {
+      "brand": "Tecno",
       "codename": "TECNO-KN3",
       "model": "TECNO KN3",
       "marketName": "TECNO SPARK 50/50C"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KN4",
+      "model": "TECNO KN4",
+      "marketName": "TECNO SPARK 50/50S"
     },
     {
       "brand": "Tecno",
@@ -39899,6 +39977,12 @@
       "brand": "Xiaomi",
       "codename": "pudding",
       "model": "25113PN0EG",
+      "marketName": "Xiaomi 17"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "pudding",
+      "model": "25113PN0EI",
       "marketName": "Xiaomi 17"
     },
     {
