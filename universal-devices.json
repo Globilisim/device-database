@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15",
+  "lastUpdated": "2026-03-22",
   "devices": [
     {
       "brand": "Casper",
@@ -1482,6 +1482,18 @@
       "codename": "Infinix-X625C",
       "model": "Infinix X625C",
       "marketName": "Infinix HOT 7 pro"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6895",
+      "model": "Infinix X6895",
+      "marketName": "Infinix HOT 70"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6895B",
+      "model": "Infinix X6895B",
+      "marketName": "Infinix HOT 70"
     },
     {
       "brand": "Infinix",
@@ -4761,6 +4773,24 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP61A9L1",
+      "model": "PLP110",
+      "marketName": "Find N6"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6271L1",
+      "model": "CPH2765",
+      "marketName": "Find N6"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61A9L1",
+      "model": "PLP120",
+      "marketName": "Find N6 卫星通信版"
+    },
+    {
+      "brand": "Oppo",
       "codename": "CPH1871",
       "model": "CPH1871",
       "marketName": "Find X"
@@ -7902,6 +7932,18 @@
       "codename": "rodin",
       "model": "2412DPC0AI",
       "marketName": "POCO X7 Pro"
+    },
+    {
+      "brand": "POCO",
+      "codename": "klee",
+      "model": "2511FPC34G",
+      "marketName": "POCO X8 Pro"
+    },
+    {
+      "brand": "POCO",
+      "codename": "klee",
+      "model": "2511FPC34I",
+      "marketName": "POCO X8 Pro"
     },
     {
       "brand": "POCO",
