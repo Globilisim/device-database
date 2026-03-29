@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22",
+  "lastUpdated": "2026-03-29",
   "devices": [
     {
       "brand": "Casper",
@@ -3688,6 +3688,12 @@
     {
       "brand": "Oppo",
       "codename": "OP62A3L1",
+      "model": "CPH2891",
+      "marketName": "A6k"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62A3L1",
       "model": "CPH2815",
       "marketName": "A6s"
     },
@@ -5118,6 +5124,18 @@
       "codename": "OP5F2BL1",
       "model": "CPH2871",
       "marketName": "K14x 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61E9L1",
+      "model": "PMH110",
+      "marketName": "K15 Pro"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61E5L1",
+      "model": "PMG110",
+      "marketName": "K15 Pro+"
     },
     {
       "brand": "Oppo",
@@ -8646,6 +8664,12 @@
       "codename": "tornado",
       "model": "2508CRN2BI",
       "marketName": "REDMI 15C 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "arctic",
+      "model": "25128RN17A",
+      "marketName": "REDMI A7 Pro"
     },
     {
       "brand": "Redmi",
