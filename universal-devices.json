@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29",
+  "lastUpdated": "2026-04-05",
   "devices": [
     {
       "brand": "Casper",
@@ -7965,6 +7965,18 @@
     },
     {
       "brand": "POCO",
+      "codename": "dash",
+      "model": "2602BPC18G",
+      "marketName": "POCO X8 Pro Max"
+    },
+    {
+      "brand": "POCO",
+      "codename": "dash",
+      "model": "2602BPC18I",
+      "marketName": "POCO X8 Pro Max"
+    },
+    {
+      "brand": "POCO",
       "codename": "onyx",
       "model": "25053PC47G",
       "marketName": "Poco F7"
@@ -8637,30 +8649,6 @@
     },
     {
       "brand": "Redmi",
-      "codename": "dew",
-      "model": "25078RA3EA",
-      "marketName": "REDMI 15C"
-    },
-    {
-      "brand": "Redmi",
-      "codename": "dew",
-      "model": "25078RA3EE",
-      "marketName": "REDMI 15C"
-    },
-    {
-      "brand": "Redmi",
-      "codename": "dew",
-      "model": "25078RA3EL",
-      "marketName": "REDMI 15C"
-    },
-    {
-      "brand": "Redmi",
-      "codename": "dew",
-      "model": "25078RA3EY",
-      "marketName": "REDMI 15C"
-    },
-    {
-      "brand": "Redmi",
       "codename": "tornado",
       "model": "2508CRN2BI",
       "marketName": "REDMI 15C 5G"
@@ -8669,6 +8657,18 @@
       "brand": "Redmi",
       "codename": "arctic",
       "model": "25128RN17A",
+      "marketName": "REDMI A7 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "arctic",
+      "model": "25128RN17L",
+      "marketName": "REDMI A7 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "arctic",
+      "model": "25128RN17Y",
       "marketName": "REDMI A7 Pro"
     },
     {
@@ -9246,6 +9246,30 @@
       "codename": "spring",
       "model": "A501XM",
       "marketName": "Redmi 15 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "dew",
+      "model": "25078RA3EA",
+      "marketName": "Redmi 15C"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "dew",
+      "model": "25078RA3EE",
+      "marketName": "Redmi 15C"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "dew",
+      "model": "25078RA3EL",
+      "marketName": "Redmi 15C"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "dew",
+      "model": "25078RA3EY",
+      "marketName": "Redmi 15C"
     },
     {
       "brand": "Redmi",
@@ -38442,6 +38466,12 @@
       "codename": "lmiin",
       "model": "Redmi K30 Pro 5G",
       "marketName": "K30 pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "nezha",
+      "model": "2512BPNDAG",
+      "marketName": "Leitzphone powered by Xiaomi"
     },
     {
       "brand": "Xiaomi",
