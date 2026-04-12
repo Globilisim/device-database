@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05",
+  "lastUpdated": "2026-04-12",
   "devices": [
     {
       "brand": "Casper",
@@ -8649,6 +8649,12 @@
     },
     {
       "brand": "Redmi",
+      "codename": "somalia",
+      "model": "2602BRNA4I",
+      "marketName": "REDMI 15A 5G"
+    },
+    {
+      "brand": "Redmi",
       "codename": "tornado",
       "model": "2508CRN2BI",
       "marketName": "REDMI 15C 5G"
@@ -14076,6 +14082,12 @@
       "codename": "a56x",
       "model": "SM-A566W",
       "marketName": "Galaxy A56 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "SC-54G",
+      "model": "SC-54G",
+      "marketName": "Galaxy A57 5G"
     },
     {
       "brand": "Samsung",
