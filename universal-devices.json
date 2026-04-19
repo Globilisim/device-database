@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12",
+  "lastUpdated": "2026-04-19",
   "devices": [
     {
       "brand": "Casper",
@@ -3711,6 +3711,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP61DFL1",
+      "model": "PMT110",
+      "marketName": "A6s Pro 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP62A3L1",
       "model": "CPH2847",
       "marketName": "A6t"
@@ -4683,6 +4689,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP62CBL1",
+      "model": "CPH2835",
+      "marketName": "F33 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "CPH1819",
       "model": "CPH1819",
       "marketName": "F7"
@@ -5028,6 +5040,36 @@
       "codename": "OP5E11L1",
       "model": "PLG120",
       "marketName": "Find X9 Pro 卫星通信版"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61BDL1",
+      "model": "PMA110",
+      "marketName": "Find X9 Ultra"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP627CL1",
+      "model": "CPH2841",
+      "marketName": "Find X9 Ultra"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61BDL1",
+      "model": "PMA120",
+      "marketName": "Find X9 Ultra 卫星通信版"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6275L1",
+      "model": "CPH2873",
+      "marketName": "Find X9s"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61C1L1",
+      "model": "PME110",
+      "marketName": "Find X9s Pro"
     },
     {
       "brand": "Oppo",
@@ -5841,6 +5883,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP6546L1",
+      "model": "OPD2511",
+      "marketName": "Pad 5 Pro"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP6541L1",
       "model": "OPD2501",
       "marketName": "Pad Air5"
@@ -5850,6 +5898,12 @@
       "codename": "OP6541L1",
       "model": "OPD2510",
       "marketName": "Pad Air5"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6548L1",
+      "model": "OPD2515",
+      "marketName": "Pad Mini"
     },
     {
       "brand": "Oppo",
@@ -8679,6 +8733,12 @@
     },
     {
       "brand": "Redmi",
+      "codename": "somalia",
+      "model": "26020RN1AI",
+      "marketName": "REDMI A7 Pro 5G"
+    },
+    {
+      "brand": "Redmi",
       "codename": "turner",
       "model": "25079RPDCC",
       "marketName": "REDMI K Pad"
@@ -8814,6 +8874,12 @@
       "codename": "flourite",
       "model": "2510ERA8BI",
       "marketName": "REDMI Note 15 Pro+5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "kunzite",
+      "model": "26022PCACI",
+      "marketName": "REDMI Note 15 SE 5G"
     },
     {
       "brand": "Redmi",
