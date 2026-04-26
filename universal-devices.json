@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19",
+  "lastUpdated": "2026-04-26",
   "devices": [
     {
       "brand": "Casper",
@@ -5655,6 +5655,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OWWE261",
+      "model": "OWWE261",
+      "marketName": "OPPO Watch X3"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OPWE242",
       "model": "OPWE242",
       "marketName": "OnePlus Watch 3 43mm"
@@ -8745,6 +8751,12 @@
     },
     {
       "brand": "Redmi",
+      "codename": "yili",
+      "model": "26048RP6AC",
+      "marketName": "REDMI K Pad 2"
+    },
+    {
+      "brand": "Redmi",
       "codename": "zorn",
       "model": "24117RK2CC",
       "marketName": "REDMI K80"
@@ -8898,6 +8910,12 @@
       "codename": "flute",
       "model": "25099RP13C",
       "marketName": "REDMI Pad 2 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "guitar",
+      "model": "2603ARP14C",
+      "marketName": "REDMI Pad 2 SE"
     },
     {
       "brand": "Redmi",
@@ -15474,6 +15492,12 @@
       "codename": "a16x",
       "model": "SM-A166L",
       "marketName": "Galaxy Buddy4"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a17x",
+      "model": "SM-A176L",
+      "marketName": "Galaxy Buddy5"
     },
     {
       "brand": "Samsung",
@@ -34023,12 +34047,6 @@
     },
     {
       "brand": "Vivo",
-      "codename": "I2306",
-      "model": "I2306",
-      "marketName": "I2306"
-    },
-    {
-      "brand": "Vivo",
       "codename": "PD1806B",
       "model": "vivo NEX A",
       "marketName": "NEX A"
@@ -40434,6 +40452,12 @@
       "codename": "axolotlte",
       "model": "Xiaomi Watch 2 Pro",
       "marketName": "Xiaomi Watch 2 Pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "blenny",
+      "model": "Xiaomi Watch 5",
+      "marketName": "Xiaomi Watch 5"
     },
     {
       "brand": "Xiaomi",
