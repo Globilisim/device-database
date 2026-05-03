@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26",
+  "lastUpdated": "2026-05-03",
   "devices": [
     {
       "brand": "Casper",
@@ -7635,6 +7635,18 @@
     },
     {
       "brand": "POCO",
+      "codename": "arctic",
+      "model": "25128PC17I",
+      "marketName": "POCO C81"
+    },
+    {
+      "brand": "POCO",
+      "codename": "serenity",
+      "model": "26020PCB4I",
+      "marketName": "POCO C81x"
+    },
+    {
+      "brand": "POCO",
       "codename": "dew",
       "model": "25078PC3EE",
       "marketName": "POCO C85"
@@ -8721,8 +8733,20 @@
     },
     {
       "brand": "Redmi",
+      "codename": "serenity",
+      "model": "26020RNB4I",
+      "marketName": "REDMI A7"
+    },
+    {
+      "brand": "Redmi",
       "codename": "arctic",
       "model": "25128RN17A",
+      "marketName": "REDMI A7 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "arctic",
+      "model": "25128RN17I",
       "marketName": "REDMI A7 Pro"
     },
     {
@@ -8898,6 +8922,12 @@
       "codename": "spring",
       "model": "25057RA09C",
       "marketName": "REDMI Note 15R"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "beryl",
+      "model": "24094RAD4C",
+      "marketName": "REDMI Note 15R Pro"
     },
     {
       "brand": "Redmi",
@@ -33126,6 +33156,12 @@
       "codename": "TECNO-LJ9",
       "model": "TECNO LJ9",
       "marketName": "TECNO POVA 7 Ultra 5G"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-LK6",
+      "model": "TECNO LK6",
+      "marketName": "TECNO POVA 8 5G"
     },
     {
       "brand": "Tecno",
