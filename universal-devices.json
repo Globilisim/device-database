@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03",
+  "lastUpdated": "2026-05-10",
   "devices": [
     {
       "brand": "Casper",
@@ -7638,6 +7638,12 @@
       "codename": "arctic",
       "model": "25128PC17I",
       "marketName": "POCO C81"
+    },
+    {
+      "brand": "POCO",
+      "codename": "arctic",
+      "model": "25128PC17G",
+      "marketName": "POCO C81 Pro"
     },
     {
       "brand": "POCO",
