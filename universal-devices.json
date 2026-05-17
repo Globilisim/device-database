@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10",
+  "lastUpdated": "2026-05-17",
   "devices": [
     {
       "brand": "Casper",
@@ -4689,6 +4689,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP5E1BL1",
+      "model": "CPH2777",
+      "marketName": "F33 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP62CBL1",
       "model": "CPH2835",
       "marketName": "F33 Pro 5G"
@@ -8943,6 +8949,18 @@
     },
     {
       "brand": "Redmi",
+      "codename": "guitar",
+      "model": "2603ARP14G",
+      "marketName": "REDMI Pad 2 9.7"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "erhu",
+      "model": "2604ERP4DG",
+      "marketName": "REDMI Pad 2 9.7 4G"
+    },
+    {
+      "brand": "Redmi",
       "codename": "flute",
       "model": "25099RP13C",
       "marketName": "REDMI Pad 2 Pro"
@@ -8952,6 +8970,12 @@
       "codename": "guitar",
       "model": "2603ARP14C",
       "marketName": "REDMI Pad 2 SE"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "erhu",
+      "model": "2604ERP4DC",
+      "marketName": "REDMI Pad 2 SE 4G"
     },
     {
       "brand": "Redmi",
@@ -29676,6 +29700,12 @@
       "codename": "m16x",
       "model": "SM-M166S",
       "marketName": "Galaxy Wide8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a17x",
+      "model": "SM-M176S",
+      "marketName": "Galaxy Wide9"
     },
     {
       "brand": "Samsung",
