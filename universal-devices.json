@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17",
+  "lastUpdated": "2026-05-24",
   "devices": [
     {
       "brand": "Casper",
@@ -48,6 +48,12 @@
       "codename": "PAD_M10",
       "model": "CTP300",
       "marketName": "CTP300"
+    },
+    {
+      "brand": "Casper",
+      "codename": "PAD_Z10_PRO",
+      "model": "CTP900",
+      "marketName": "CTP900"
     },
     {
       "brand": "Casper",
@@ -1823,13 +1829,7 @@
       "brand": "Infinix",
       "codename": "Infinix-X1302",
       "model": "Infinix X1302",
-      "marketName": "Infinix XPAD 20 Edge"
-    },
-    {
-      "brand": "Infinix",
-      "codename": "Infinix-X1302",
-      "model": "Infinix X1302",
-      "marketName": "Infinix XPAD 20 Slim"
+      "marketName": "Infinix XPAD Edge"
     },
     {
       "brand": "Infinix",
@@ -7098,6 +7098,12 @@
       "codename": "OP61BBL1",
       "model": "PMD110",
       "marketName": "Reno15c"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61F3L1",
+      "model": "PMM110",
+      "marketName": "Reno16"
     },
     {
       "brand": "Oppo",
