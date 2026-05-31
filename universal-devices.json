@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24",
+  "lastUpdated": "2026-05-31",
   "devices": [
     {
       "brand": "Casper",
@@ -5487,6 +5487,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP6929L1",
+      "model": "OPD2601",
+      "marketName": "OPPO Pad 6"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP5225",
       "model": "OPD2102",
       "marketName": "OPPO Pad Air"
@@ -7107,6 +7113,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP61EFL1",
+      "model": "PMK110",
+      "marketName": "Reno16 Pro"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP4B65L1",
       "model": "CPH1945",
       "marketName": "Reno2 Z"
@@ -7926,6 +7938,12 @@
       "codename": "dizi",
       "model": "2405CPCFBG",
       "marketName": "POCO Pad"
+    },
+    {
+      "brand": "POCO",
+      "codename": "guitar",
+      "model": "2603APC14G",
+      "marketName": "POCO Pad C1"
     },
     {
       "brand": "POCO",
@@ -32835,6 +32853,18 @@
     },
     {
       "brand": "Tecno",
+      "codename": "TECNO-CN6c",
+      "model": "TECNO CN6c",
+      "marketName": "TECNO CAMON Slim"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-CN6c",
+      "model": "TECNO CN6c",
+      "marketName": "TECNO CAMON Slim/Air"
+    },
+    {
+      "brand": "Tecno",
       "codename": "TECNO-KB2",
       "model": "TECNO KB2",
       "marketName": "TECNO CAMON iACE 2"
@@ -32874,6 +32904,12 @@
       "codename": "TECNO-T1102W",
       "model": "TECNO T1102W",
       "marketName": "TECNO MEGAPAD  SE"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-T1103",
+      "model": "TECNO T1103",
+      "marketName": "TECNO MEGAPAD 2"
     },
     {
       "brand": "Tecno",
@@ -40257,6 +40293,12 @@
     },
     {
       "brand": "Xiaomi",
+      "codename": "byron",
+      "model": "2605EPN8EC",
+      "marketName": "Xiaomi 17 Max"
+    },
+    {
+      "brand": "Xiaomi",
       "codename": "pandora",
       "model": "25098PN5AC",
       "marketName": "Xiaomi 17 Pro"
@@ -40284,6 +40326,30 @@
       "codename": "nezha",
       "model": "2512BPNDAI",
       "marketName": "Xiaomi 17 Ultra"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "chagall",
+      "model": "2602DPT53G",
+      "marketName": "Xiaomi 17T"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "chagall",
+      "model": "2602DPT53I",
+      "marketName": "Xiaomi 17T"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "warhol",
+      "model": "2602EPTC0G",
+      "marketName": "Xiaomi 17T Pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "warhol",
+      "model": "2602EPTC0R",
+      "marketName": "Xiaomi 17T Pro"
     },
     {
       "brand": "Xiaomi",
