@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31",
+  "lastUpdated": "2026-06-07",
   "devices": [
     {
       "brand": "Casper",
@@ -1824,6 +1824,12 @@
       "codename": "Infinix-X572",
       "model": "Infinix X572",
       "marketName": "Infinix X572"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X1103",
+      "model": "Infinix X1103",
+      "marketName": "Infinix XPAD 30 pro"
     },
     {
       "brand": "Infinix",
@@ -7667,6 +7673,12 @@
       "brand": "POCO",
       "codename": "arctic",
       "model": "25128PC17G",
+      "marketName": "POCO C81 Pro"
+    },
+    {
+      "brand": "POCO",
+      "codename": "arctic",
+      "model": "25128PC17L",
       "marketName": "POCO C81 Pro"
     },
     {
