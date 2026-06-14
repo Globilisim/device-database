@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-14",
   "devices": [
     {
       "brand": "Casper",
@@ -2328,6 +2328,12 @@
       "codename": "Infinix-X612B",
       "model": "Infinix X612B",
       "marketName": "SMART HD"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6725",
+      "model": "Infinix X6725",
+      "marketName": "SMART Series"
     },
     {
       "brand": "Infinix",
@@ -6774,6 +6780,24 @@
       "codename": "OP5AD3L1",
       "model": "CPH2607",
       "marketName": "Reno 11 Pro"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno 16 F 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno 16 FS 5G/Reno 16 F 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno 16c 5G"
     },
     {
       "brand": "Oppo",
@@ -33255,6 +33279,12 @@
     },
     {
       "brand": "Tecno",
+      "codename": "TECNO-LK7",
+      "model": "TECNO LK7",
+      "marketName": "TECNO POVA 8 Pro 5G"
+    },
+    {
+      "brand": "Tecno",
       "codename": "TECNO-LK7k",
       "model": "TECNO LK7k",
       "marketName": "TECNO POVA Curve 2 5G"
@@ -33588,6 +33618,12 @@
       "codename": "TECNO-KN4",
       "model": "TECNO KN4",
       "marketName": "TECNO SPARK 50/50S"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KO5",
+      "model": "TECNO KO5",
+      "marketName": "TECNO SPARK 50T"
     },
     {
       "brand": "Tecno",
@@ -40353,6 +40389,12 @@
     },
     {
       "brand": "Xiaomi",
+      "codename": "chagall",
+      "model": "M531DA",
+      "marketName": "Xiaomi 17T"
+    },
+    {
+      "brand": "Xiaomi",
       "codename": "warhol",
       "model": "2602EPTC0G",
       "marketName": "Xiaomi 17T Pro"
@@ -40361,6 +40403,12 @@
       "brand": "Xiaomi",
       "codename": "warhol",
       "model": "2602EPTC0R",
+      "marketName": "Xiaomi 17T Pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "warhol",
+      "model": "M025EC",
       "marketName": "Xiaomi 17T Pro"
     },
     {
