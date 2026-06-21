@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-21",
   "devices": [
     {
       "brand": "Casper",
@@ -1500,6 +1500,12 @@
       "codename": "Infinix-X6895B",
       "model": "Infinix X6895B",
       "marketName": "Infinix HOT 70"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6896",
+      "model": "Infinix X6896",
+      "marketName": "Infinix HOT 70 Pro 5G"
     },
     {
       "brand": "Infinix",
@@ -9051,6 +9057,18 @@
     },
     {
       "brand": "Redmi",
+      "codename": "klee",
+      "model": "2511FPC34I",
+      "marketName": "REDMI Turbo 5"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "klee",
+      "model": "2606FRT34I",
+      "marketName": "REDMI Turbo 5"
+    },
+    {
+      "brand": "Redmi",
       "codename": "dash",
       "model": "2602BRT18C",
       "marketName": "REDMI Turbo 5 Max"
@@ -13038,6 +13056,36 @@
       "codename": "a26xs",
       "model": "SM-A266M",
       "marketName": "Galaxy A26 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-A2760",
+      "marketName": "Galaxy A27 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-A276B",
+      "marketName": "Galaxy A27 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-A276U",
+      "marketName": "Galaxy A27 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-A276U1",
+      "marketName": "Galaxy A27 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-S276V",
+      "marketName": "Galaxy A27 5G"
     },
     {
       "brand": "Samsung",
@@ -18666,6 +18714,12 @@
       "codename": "m36x",
       "model": "SM-M366K",
       "marketName": "Galaxy Jump4"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a27xq",
+      "model": "SM-A276K",
+      "marketName": "Galaxy Jump5"
     },
     {
       "brand": "Samsung",
@@ -32946,6 +33000,12 @@
       "codename": "TECNO-T1103",
       "model": "TECNO T1103",
       "marketName": "TECNO MEGAPAD 2"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-T1002",
+      "model": "TECNO T1002",
+      "marketName": "TECNO MEGAPAD SE 2"
     },
     {
       "brand": "Tecno",
