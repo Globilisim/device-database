@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-28",
   "devices": [
     {
       "brand": "Casper",
@@ -5913,9 +5913,27 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP5E1EL1",
+      "model": "PLT140",
+      "marketName": "PLT140"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP615CL1",
       "model": "OPD2409",
       "marketName": "Pad 4 Pro"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6573L1",
+      "model": "OPD2502",
+      "marketName": "Pad 5"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6573L1",
+      "model": "OPD2503",
+      "marketName": "Pad 5"
     },
     {
       "brand": "Oppo",
@@ -6789,24 +6807,6 @@
     },
     {
       "brand": "Oppo",
-      "codename": "OP62F3L1",
-      "model": "CPH2859",
-      "marketName": "Reno 16 F 5G"
-    },
-    {
-      "brand": "Oppo",
-      "codename": "OP62F3L1",
-      "model": "CPH2859",
-      "marketName": "Reno 16 FS 5G/Reno 16 F 5G"
-    },
-    {
-      "brand": "Oppo",
-      "codename": "OP62F3L1",
-      "model": "CPH2859",
-      "marketName": "Reno 16c 5G"
-    },
-    {
-      "brand": "Oppo",
       "codename": "OP4B83L1",
       "model": "CPH1907",
       "marketName": "Reno 2"
@@ -7084,6 +7084,18 @@
     {
       "brand": "Oppo",
       "codename": "OP628FL1",
+      "model": "A601OP",
+      "marketName": "Reno15 A"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP628FL1",
+      "model": "OPG08",
+      "marketName": "Reno15 A"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP628FL1",
       "model": "CPH2801",
       "marketName": "Reno15 C 5G"
     },
@@ -7149,9 +7161,39 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP6307L1",
+      "model": "CPH2865",
+      "marketName": "Reno16 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno16 F 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno16 FS 5G/Reno16 F 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP61EFL1",
       "model": "PMK110",
       "marketName": "Reno16 Pro"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62FDL1",
+      "model": "CPH2863",
+      "marketName": "Reno16 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
+      "model": "CPH2859",
+      "marketName": "Reno16c 5G"
     },
     {
       "brand": "Oppo",
