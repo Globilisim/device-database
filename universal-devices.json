@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-12",
   "devices": [
     {
       "brand": "Casper",
@@ -1835,6 +1835,12 @@
       "brand": "Infinix",
       "codename": "Infinix-X1103",
       "model": "Infinix X1103",
+      "marketName": "Infinix XPAD 30 pro"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X1103B",
+      "model": "Infinix X1103B",
       "marketName": "Infinix XPAD 30 pro"
     },
     {
