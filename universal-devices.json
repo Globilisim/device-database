@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-19",
   "devices": [
     {
       "brand": "Casper",
@@ -7180,6 +7180,12 @@
     {
       "brand": "Oppo",
       "codename": "OP62F3L1",
+      "model": "CPH2967",
+      "marketName": "Reno16 F 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62F3L1",
       "model": "CPH2859",
       "marketName": "Reno16 FS 5G/Reno16 F 5G"
     },
@@ -9060,6 +9066,12 @@
       "codename": "beryl",
       "model": "24094RAD4C",
       "marketName": "REDMI Note 15R Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "mist",
+      "model": "26021RN18C",
+      "marketName": "REDMI Note 17"
     },
     {
       "brand": "Redmi",
@@ -33059,6 +33071,12 @@
       "brand": "Tecno",
       "codename": "TECNO-T1002",
       "model": "TECNO T1002",
+      "marketName": "TECNO MEGAPAD SE 2"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-T1002W",
+      "model": "TECNO T1002W",
       "marketName": "TECNO MEGAPAD SE 2"
     },
     {
