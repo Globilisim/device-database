@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-26",
   "devices": [
     {
       "brand": "Casper",
@@ -5460,6 +5460,12 @@
       "codename": "OP5925",
       "model": "PHF110",
       "marketName": "OPPO K11x 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP61FDL1",
+      "model": "PYD110",
+      "marketName": "OPPO K15"
     },
     {
       "brand": "Oppo",
@@ -29415,6 +29421,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "projectv2bl",
+      "model": "SM-L710",
+      "marketName": "Galaxy Watch Ultra2"
+    },
+    {
+      "brand": "Samsung",
       "codename": "freshbl",
       "model": "SM-R870",
       "marketName": "Galaxy Watch4"
@@ -29838,6 +29850,36 @@
       "codename": "wise8us",
       "model": "SM-L505U",
       "marketName": "Galaxy Watch8 Classic"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9bl",
+      "model": "SM-L350",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9bs",
+      "model": "SM-L340",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9us",
+      "model": "SM-L345F",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9us",
+      "model": "SM-L345N",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9us",
+      "model": "SM-L345U",
+      "marketName": "Galaxy Watch9"
     },
     {
       "brand": "Samsung",
@@ -30753,6 +30795,72 @@
     },
     {
       "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SC-55G",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SCG40",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F7760",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776C",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776Q",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776U",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776U1",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776W",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8q",
+      "model": "SM-F776Z",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8s",
+      "model": "SM-F776B",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "b8s",
+      "model": "SM-F776N",
+      "marketName": "Galaxy Z Flip8"
+    },
+    {
+      "brand": "Samsung",
       "codename": "q6aq",
       "model": "SM-F958N",
       "marketName": "Galaxy Z Fold Special Edition"
@@ -31062,6 +31170,138 @@
       "codename": "q7q",
       "model": "SM-F966Z",
       "marketName": "Galaxy Z Fold7"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SC-57G",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SCG41",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F9710",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971B",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971C",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971N",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971Q",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971U",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971U1",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971W",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "h8q",
+      "model": "SM-F971Z",
+      "marketName": "Galaxy Z Fold8"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SC-56G",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SCG39",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F9760",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976B",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976C",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976N",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976Q",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976U",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976U1",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976W",
+      "marketName": "Galaxy Z Fold8 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "q8q",
+      "model": "SM-F976Z",
+      "marketName": "Galaxy Z Fold8 Ultra"
     },
     {
       "brand": "Samsung",
@@ -40758,6 +40998,12 @@
       "codename": "jaws",
       "model": "MiTV-AFKR0",
       "marketName": "Xiaomi TV Box S (2nd Gen)"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "coco",
+      "model": "MiTV-AXTU0",
+      "marketName": "Xiaomi TV Stick"
     },
     {
       "brand": "Xiaomi",
