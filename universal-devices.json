@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-08-02",
   "devices": [
     {
       "brand": "Casper",
@@ -3807,6 +3807,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP620DL1",
+      "model": "PYC110",
+      "marketName": "A7 Pro Max 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP4C72L1",
       "model": "CPH2067",
       "marketName": "A72"
@@ -5928,6 +5934,12 @@
       "codename": "OP5E1EL1",
       "model": "PLT140",
       "marketName": "PLT140"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP5E1EL1",
+      "model": "PLT150",
+      "marketName": "PLT150"
     },
     {
       "brand": "Oppo",
@@ -14429,6 +14441,12 @@
       "brand": "Samsung",
       "codename": "a57x",
       "model": "SM-A576Q",
+      "marketName": "Galaxy A57 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a57x",
+      "model": "SM-A576U",
       "marketName": "Galaxy A57 5G"
     },
     {
@@ -33978,6 +33996,12 @@
       "codename": "TECNO-KN8",
       "model": "TECNO KN8",
       "marketName": "TECNO SPARK 50 5G"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KO5",
+      "model": "TECNO KO5",
+      "marketName": "TECNO SPARK 50 Pro"
     },
     {
       "brand": "Tecno",
