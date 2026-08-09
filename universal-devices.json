@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-09",
   "devices": [
     {
       "brand": "Casper",
@@ -618,6 +618,12 @@
       "codename": "G905",
       "model": "G905",
       "marketName": "GM 26 5G"
+    },
+    {
+      "brand": "General Mobile",
+      "codename": "G907",
+      "model": "G907",
+      "marketName": "GM 26 SE 5G"
     },
     {
       "brand": "General Mobile",
