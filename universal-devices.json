@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-16",
   "devices": [
     {
       "brand": "Casper",
@@ -8055,6 +8055,12 @@
     },
     {
       "brand": "POCO",
+      "codename": "mist",
+      "model": "26021PC18I",
+      "marketName": "POCO M8 Power 5G"
+    },
+    {
+      "brand": "POCO",
       "codename": "flourite",
       "model": "2510EPC8BG",
       "marketName": "POCO M8 Pro 5G"
@@ -8895,6 +8901,12 @@
     },
     {
       "brand": "Redmi",
+      "codename": "steppe",
+      "model": "26062RN92G",
+      "marketName": "REDMI 17 5G"
+    },
+    {
+      "brand": "Redmi",
       "codename": "serenity",
       "model": "26020RNB4I",
       "marketName": "REDMI A7"
@@ -8940,6 +8952,18 @@
       "codename": "yili",
       "model": "26048RP6AC",
       "marketName": "REDMI K Pad 2"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "athens",
+      "model": "M511CD",
+      "marketName": "REDMI K100 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "songyuan",
+      "model": "M098FE",
+      "marketName": "REDMI K100 Pro Max"
     },
     {
       "brand": "Redmi",
@@ -9096,6 +9120,12 @@
       "codename": "mist",
       "model": "26021RN18C",
       "marketName": "REDMI Note 17"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "mist",
+      "model": "26021RN18I",
+      "marketName": "REDMI Note 17 5G"
     },
     {
       "brand": "Redmi",
@@ -12210,6 +12240,36 @@
       "codename": "a07x",
       "model": "SM-A076M",
       "marketName": "Galaxy A07 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a07ve",
+      "model": "SM-A077F",
+      "marketName": "Galaxy A07s"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a07ve",
+      "model": "SM-A077M",
+      "marketName": "Galaxy A07s"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-A085F",
+      "marketName": "Galaxy A08"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-E085F",
+      "marketName": "Galaxy A08"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-M085F",
+      "marketName": "Galaxy A08"
     },
     {
       "brand": "Samsung",
@@ -21681,6 +21741,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "a57x",
+      "model": "SM-A576S",
+      "marketName": "Galaxy Quantum7"
+    },
+    {
+      "brand": "Samsung",
       "codename": "jaguark",
       "model": "SHV-E170K",
       "marketName": "Galaxy R-Style"
@@ -23670,6 +23736,36 @@
       "codename": "m1s",
       "model": "SM-S942N",
       "marketName": "Galaxy S26"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "r14s",
+      "model": "SM-S741B",
+      "marketName": "Galaxy S26 FE"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "r14s",
+      "model": "SM-S741N",
+      "marketName": "Galaxy S26 FE"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "r14s",
+      "model": "SM-S741U",
+      "marketName": "Galaxy S26 FE"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "r14s",
+      "model": "SM-S741U1",
+      "marketName": "Galaxy S26 FE"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "r14s",
+      "model": "SM-S741W",
+      "marketName": "Galaxy S26 FE"
     },
     {
       "brand": "Samsung",
@@ -27540,6 +27636,54 @@
       "codename": "gts11u",
       "model": "SM-X936N",
       "marketName": "Galaxy Tab S11 Ultra 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12uwifi",
+      "model": "SM-X940",
+      "marketName": "Galaxy Tab S12 Ultra"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12u",
+      "model": "SM-X946B",
+      "marketName": "Galaxy Tab S12 Ultra 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12u",
+      "model": "SM-X946N",
+      "marketName": "Galaxy Tab S12 Ultra 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12pwifi",
+      "model": "SM-X840",
+      "marketName": "Galaxy Tab S12+"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12p",
+      "model": "SM-X846B",
+      "marketName": "Galaxy Tab S12+ 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12p",
+      "model": "SM-X846E",
+      "marketName": "Galaxy Tab S12+ 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12p",
+      "model": "SM-X846N",
+      "marketName": "Galaxy Tab S12+ 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "gts12p",
+      "model": "SM-X848U",
+      "marketName": "Galaxy Tab S12+ 5G"
     },
     {
       "brand": "Samsung",
@@ -31662,6 +31806,12 @@
       "codename": "veyronltectc",
       "model": "SM-W2017",
       "marketName": "W2017"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "SAMSUNG_INTERACTIVE_DISPLAY",
+      "model": "WAF-S",
+      "marketName": "WAF-S"
     },
     {
       "brand": "Samsung",
