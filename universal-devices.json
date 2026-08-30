@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23",
+  "lastUpdated": "2026-08-30",
   "devices": [
     {
       "brand": "Casper",
@@ -1806,6 +1806,12 @@
       "codename": "Infinix-X6532C",
       "model": "Infinix X6532C",
       "marketName": "Infinix SMART 9 HD"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "beomil",
+      "model": "Infinix TV",
+      "marketName": "Infinix TV"
     },
     {
       "brand": "Infinix",
@@ -12257,6 +12263,12 @@
       "brand": "Samsung",
       "codename": "a08",
       "model": "SM-A085F",
+      "marketName": "Galaxy A08"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-A085M",
       "marketName": "Galaxy A08"
     },
     {
@@ -29595,6 +29607,30 @@
     },
     {
       "brand": "Samsung",
+      "codename": "projectv2ul",
+      "model": "SM-L7150",
+      "marketName": "Galaxy Watch Ultra2"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "projectv2ul",
+      "model": "SM-L715F",
+      "marketName": "Galaxy Watch Ultra2"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "projectv2ul",
+      "model": "SM-L715N",
+      "marketName": "Galaxy Watch Ultra2"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "projectv2ul",
+      "model": "SM-L715U",
+      "marketName": "Galaxy Watch Ultra2"
+    },
+    {
+      "brand": "Samsung",
       "codename": "freshbl",
       "model": "SM-R870",
       "marketName": "Galaxy Watch4"
@@ -30029,6 +30065,30 @@
       "brand": "Samsung",
       "codename": "fresh9bs",
       "model": "SM-L340",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9ul",
+      "model": "SM-L3550",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9ul",
+      "model": "SM-L355F",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9ul",
+      "model": "SM-L355N",
+      "marketName": "Galaxy Watch9"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "fresh9ul",
+      "model": "SM-L355U",
       "marketName": "Galaxy Watch9"
     },
     {
@@ -37608,6 +37668,12 @@
       "codename": "V2355",
       "model": "V2355",
       "marketName": "Y58 5G"
+    },
+    {
+      "brand": "Vivo",
+      "codename": "PD2607",
+      "model": "V2607A",
+      "marketName": "Y600"
     },
     {
       "brand": "Vivo",
