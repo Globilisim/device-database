@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-09-06",
   "devices": [
     {
       "brand": "Casper",
@@ -5211,6 +5211,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP632F",
+      "model": "CPH3007",
+      "marketName": "K14 Lite"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP5F2BL1",
       "model": "CPH2871",
       "marketName": "K14x 5G"
@@ -7911,6 +7917,18 @@
     },
     {
       "brand": "POCO",
+      "codename": "athens",
+      "model": "2607APCA5G",
+      "marketName": "POCO F9 Pro"
+    },
+    {
+      "brand": "POCO",
+      "codename": "songyuan",
+      "model": "26077PC53G",
+      "marketName": "POCO F9 Ultra"
+    },
+    {
+      "brand": "POCO",
       "codename": "shiva",
       "model": "M2004J19PI",
       "marketName": "POCO M2"
@@ -8196,6 +8214,12 @@
       "codename": "rodin",
       "model": "2412DPC0AI",
       "marketName": "POCO X7 Pro"
+    },
+    {
+      "brand": "POCO",
+      "codename": "iolite",
+      "model": "2607DPC18G",
+      "marketName": "POCO X8"
     },
     {
       "brand": "POCO",
@@ -8913,8 +8937,26 @@
     },
     {
       "brand": "Redmi",
+      "codename": "steppe",
+      "model": "26062RN92I",
+      "marketName": "REDMI 17 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "serenity",
+      "model": "26020RNB4A",
+      "marketName": "REDMI A7"
+    },
+    {
+      "brand": "Redmi",
       "codename": "serenity",
       "model": "26020RNB4I",
+      "marketName": "REDMI A7"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "serenity",
+      "model": "26020RNB4L",
       "marketName": "REDMI A7"
     },
     {
@@ -9129,9 +9171,63 @@
     },
     {
       "brand": "Redmi",
+      "codename": "zephyr",
+      "model": "26012RN62A",
+      "marketName": "REDMI Note 17"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "zephyr",
+      "model": "26012RN62L",
+      "marketName": "REDMI Note 17"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "zephyr",
+      "model": "26012RN62Y",
+      "marketName": "REDMI Note 17"
+    },
+    {
+      "brand": "Redmi",
       "codename": "mist",
       "model": "26021RN18I",
       "marketName": "REDMI Note 17 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "mist",
+      "model": "26081RA18G",
+      "marketName": "REDMI Note 17 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "mist",
+      "model": "26081RA18L",
+      "marketName": "REDMI Note 17 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "iolite",
+      "model": "2607DRA18C",
+      "marketName": "REDMI Note 17 Pro"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "iolite",
+      "model": "2607DRA18G",
+      "marketName": "REDMI Note 17 Pro 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "iolite",
+      "model": "2607DRA18T",
+      "marketName": "REDMI Note 17 Pro 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "brussels",
+      "model": "2609FRA74G",
+      "marketName": "REDMI Note 17 Pro Max 5G"
     },
     {
       "brand": "Redmi",
@@ -36648,6 +36744,12 @@
       "codename": "V5Plus",
       "model": "vivo V5Plus",
       "marketName": "V5Plus"
+    },
+    {
+      "brand": "Vivo",
+      "codename": "V2626",
+      "model": "V2626",
+      "marketName": "V80 Lite 5G"
     },
     {
       "brand": "Vivo",
