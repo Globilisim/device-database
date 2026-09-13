@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-13",
   "devices": [
     {
       "brand": "Casper",
@@ -2709,6 +2709,12 @@
     },
     {
       "brand": "Infinix",
+      "codename": "Infinix-X1102D",
+      "model": "Infinix X1102D",
+      "marketName": "XPAD 30"
+    },
+    {
+      "brand": "Infinix",
       "codename": "Infinix-X1102B",
       "model": "Infinix X1102B",
       "marketName": "XPAD 30E"
@@ -3816,6 +3822,18 @@
       "codename": "PBFT00",
       "model": "PBFT00",
       "marketName": "A7"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP620BL1",
+      "model": "PYE110",
+      "marketName": "A7 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP620BL1",
+      "model": "PYE130",
+      "marketName": "A7 Pro 5G"
     },
     {
       "brand": "Oppo",
@@ -8091,6 +8109,12 @@
     },
     {
       "brand": "POCO",
+      "codename": "steppe",
+      "model": "26062PC92I",
+      "marketName": "POCO M8x 5G"
+    },
+    {
+      "brand": "POCO",
       "codename": "dizi",
       "model": "2405CPCFBG",
       "marketName": "POCO Pad"
@@ -8940,6 +8964,12 @@
       "codename": "steppe",
       "model": "26062RN92I",
       "marketName": "REDMI 17 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "tornado",
+      "model": "2607FRNEAG",
+      "marketName": "REDMI 17C 5G"
     },
     {
       "brand": "Redmi",
@@ -12369,18 +12399,6 @@
     },
     {
       "brand": "Samsung",
-      "codename": "a08",
-      "model": "SM-E085F",
-      "marketName": "Galaxy A08"
-    },
-    {
-      "brand": "Samsung",
-      "codename": "a08",
-      "model": "SM-M085F",
-      "marketName": "Galaxy A08"
-    },
-    {
-      "brand": "Samsung",
       "codename": "a10",
       "model": "SM-A105F",
       "marketName": "Galaxy A10"
@@ -12900,6 +12918,24 @@
       "codename": "a17x",
       "model": "SM-S176V",
       "marketName": "Galaxy A17 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a18",
+      "model": "SM-A185F",
+      "marketName": "Galaxy A18"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a18",
+      "model": "SM-A185N",
+      "marketName": "Galaxy A18"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a18m",
+      "model": "SM-A185G",
+      "marketName": "Galaxy A18"
     },
     {
       "brand": "Samsung",
@@ -16665,6 +16701,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-E085F",
+      "marketName": "Galaxy F08"
+    },
+    {
+      "brand": "Samsung",
       "codename": "f12",
       "model": "SM-F127G",
       "marketName": "Galaxy F12"
@@ -19122,6 +19164,12 @@
       "codename": "a07",
       "model": "SM-M075F",
       "marketName": "Galaxy M07"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a08",
+      "model": "SM-M085F",
+      "marketName": "Galaxy M08"
     },
     {
       "brand": "Samsung",
@@ -33741,6 +33789,18 @@
     },
     {
       "brand": "Tecno",
+      "codename": "TECNO-KN3s",
+      "model": "TECNO KN3",
+      "marketName": "TECNO POP 20"
+    },
+    {
+      "brand": "Tecno",
+      "codename": "TECNO-KO2",
+      "model": "TECNO KO2",
+      "marketName": "TECNO POP 20C"
+    },
+    {
+      "brand": "Tecno",
       "codename": "TECNO-B1g",
       "model": "TECNO B1g",
       "marketName": "TECNO POP 2F"
@@ -41133,6 +41193,12 @@
     },
     {
       "brand": "Xiaomi",
+      "codename": "lhasa",
+      "model": "2608BPX34C",
+      "marketName": "Xiaomi 18 Fold"
+    },
+    {
+      "brand": "Xiaomi",
       "codename": "mona",
       "model": "2109119BC",
       "marketName": "Xiaomi Civi"
@@ -41310,6 +41376,12 @@
       "codename": "piano",
       "model": "25091RP04C",
       "marketName": "Xiaomi Pad 8 Pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "yingtian",
+      "model": "M367FC",
+      "marketName": "Xiaomi Pad 9 Pro Max"
     },
     {
       "brand": "Xiaomi",
