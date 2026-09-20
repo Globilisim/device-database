@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-20",
   "devices": [
     {
       "brand": "Casper",
@@ -90,6 +90,12 @@
       "codename": "L20",
       "model": "L20",
       "marketName": "L20"
+    },
+    {
+      "brand": "Casper",
+      "codename": "PAD_D10",
+      "model": "CTP100",
+      "marketName": "PAD_D10"
     },
     {
       "brand": "Casper",
@@ -1810,6 +1816,18 @@
     {
       "brand": "Infinix",
       "codename": "beomil",
+      "model": "Infinix TV",
+      "marketName": "Infinix TV"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "eleonas",
+      "model": "Infinix TV",
+      "marketName": "Infinix TV"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "katehaki",
       "model": "Infinix TV",
       "marketName": "Infinix TV"
     },
@@ -3837,12 +3855,6 @@
     },
     {
       "brand": "Oppo",
-      "codename": "OP620DL1",
-      "model": "PYC110",
-      "marketName": "A7 Pro Max 5G"
-    },
-    {
-      "brand": "Oppo",
       "codename": "OP4C72L1",
       "model": "CPH2067",
       "marketName": "A72"
@@ -5235,6 +5247,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP62B9L1",
+      "model": "CPH3009",
+      "marketName": "K14 Plus 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP5F2BL1",
       "model": "CPH2871",
       "marketName": "K14x 5G"
@@ -5982,6 +6000,12 @@
       "codename": "OP61F3L1",
       "model": "PMM110",
       "marketName": "PMM110"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP620DL1",
+      "model": "PYC110",
+      "marketName": "PYC110"
     },
     {
       "brand": "Oppo",
@@ -13877,6 +13901,12 @@
       "brand": "Samsung",
       "codename": "a37x",
       "model": "SM-A376E",
+      "marketName": "Galaxy A37 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a37x",
+      "model": "SM-A376N",
       "marketName": "Galaxy A37 5G"
     },
     {
