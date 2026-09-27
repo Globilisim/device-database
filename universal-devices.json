@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20",
+  "lastUpdated": "2026-09-27",
   "devices": [
     {
       "brand": "Casper",
@@ -3855,6 +3855,12 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP623EL1",
+      "model": "CPH2931",
+      "marketName": "A7 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP4C72L1",
       "model": "CPH2067",
       "marketName": "A72"
@@ -4770,6 +4776,12 @@
       "codename": "OP62CBL1",
       "model": "CPH2835",
       "marketName": "F33 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP623EL1",
+      "model": "CPH2931",
+      "marketName": "F35 5G"
     },
     {
       "brand": "Oppo",
@@ -8271,6 +8283,12 @@
     },
     {
       "brand": "POCO",
+      "codename": "iolite",
+      "model": "2607DPC18I",
+      "marketName": "POCO X8"
+    },
+    {
+      "brand": "POCO",
       "codename": "klee",
       "model": "2511FPC34G",
       "marketName": "POCO X8 Pro"
@@ -9269,6 +9287,12 @@
       "brand": "Redmi",
       "codename": "iolite",
       "model": "2607DRA18G",
+      "marketName": "REDMI Note 17 Pro 5G"
+    },
+    {
+      "brand": "Redmi",
+      "codename": "iolite",
+      "model": "2607DRA18I",
       "marketName": "REDMI Note 17 Pro 5G"
     },
     {
@@ -32052,6 +32076,12 @@
       "codename": "SAMSUNG_INTERACTIVE_DISPLAY",
       "model": "WAFX-P",
       "marketName": "WAFX-P"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "SAMSUNG_INTERACTIVE_DISPLAY",
+      "model": "WAFX-PS",
+      "marketName": "WAFX-PS"
     },
     {
       "brand": "Samsung",
