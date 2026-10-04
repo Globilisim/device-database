@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27",
+  "lastUpdated": "2026-10-04",
   "devices": [
     {
       "brand": "Casper",
@@ -4782,6 +4782,12 @@
       "codename": "OP623EL1",
       "model": "CPH2931",
       "marketName": "F35 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP62B7L1",
+      "model": "CPH2829",
+      "marketName": "F35 Pro 5G"
     },
     {
       "brand": "Oppo",
@@ -41196,6 +41202,12 @@
       "codename": "popsicle",
       "model": "2509FPN0BC",
       "marketName": "Xiaomi 17 Pro Max"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "nezha",
+      "model": "25128PNA1C",
+      "marketName": "Xiaomi 17 Ultra"
     },
     {
       "brand": "Xiaomi",
