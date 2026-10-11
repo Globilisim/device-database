@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04",
+  "lastUpdated": "2026-10-11",
   "devices": [
     {
       "brand": "Casper",
@@ -9021,6 +9021,12 @@
     },
     {
       "brand": "Redmi",
+      "codename": "tornado",
+      "model": "2607FRNEAI",
+      "marketName": "REDMI 17C 5G"
+    },
+    {
+      "brand": "Redmi",
       "codename": "serenity",
       "model": "26020RNB4A",
       "marketName": "REDMI A7"
@@ -16872,6 +16878,12 @@
       "codename": "f62",
       "model": "SM-E625F",
       "marketName": "Galaxy F62"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "a17x",
+      "model": "SM-E176E",
+      "marketName": "Galaxy F70 5G"
     },
     {
       "brand": "Samsung",
@@ -34455,6 +34467,12 @@
     },
     {
       "brand": "Tecno",
+      "codename": "TECNO-KN8s",
+      "model": "TECNO KN8s",
+      "marketName": "TECNO SPARK 50S 5G"
+    },
+    {
+      "brand": "Tecno",
       "codename": "TECNO-KO5",
       "model": "TECNO KO5",
       "marketName": "TECNO SPARK 50T"
@@ -41268,6 +41286,18 @@
       "codename": "lhasa",
       "model": "2608BPX34C",
       "marketName": "Xiaomi 18 Fold"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "hongkong",
+      "model": "M610BB",
+      "marketName": "Xiaomi 18 Pro"
+    },
+    {
+      "brand": "Xiaomi",
+      "codename": "madrid",
+      "model": "M154FF",
+      "marketName": "Xiaomi 18 Pro Max"
     },
     {
       "brand": "Xiaomi",
