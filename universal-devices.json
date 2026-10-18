@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-18",
   "devices": [
     {
       "brand": "Casper",
@@ -2280,6 +2280,12 @@
       "codename": "Infinix-X6840B",
       "model": "Infinix X6840B",
       "marketName": "SMART 20"
+    },
+    {
+      "brand": "Infinix",
+      "codename": "Infinix-X6843B",
+      "model": "Infinix X6843B",
+      "marketName": "SMART 20e"
     },
     {
       "brand": "Infinix",
@@ -4935,6 +4941,42 @@
     },
     {
       "brand": "Oppo",
+      "codename": "OP659BL1",
+      "model": "PMW110",
+      "marketName": "Find X10"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6659L1",
+      "model": "CPH2911",
+      "marketName": "Find X10"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6659L1",
+      "model": "OPG09",
+      "marketName": "Find X10"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP65D7L1",
+      "model": "PNA110",
+      "marketName": "Find X10 E"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP659FL1",
+      "model": "PMX110",
+      "marketName": "Find X10 Pro Max"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP665DL1",
+      "model": "CPH2913",
+      "marketName": "Find X10 Pro Max"
+    },
+    {
+      "brand": "Oppo",
       "codename": "OP4BA1L1",
       "model": "CPH2023",
       "marketName": "Find X2"
@@ -6065,6 +6107,12 @@
       "brand": "Oppo",
       "codename": "OP6548L1",
       "model": "OPD2515",
+      "marketName": "Pad Mini"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP657BL1",
+      "model": "OPD2516",
       "marketName": "Pad Mini"
     },
     {
