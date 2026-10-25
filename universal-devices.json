@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-10-25",
   "devices": [
     {
       "brand": "Casper",
@@ -3864,6 +3864,12 @@
       "codename": "OP623EL1",
       "model": "CPH2931",
       "marketName": "A7 Pro 5G"
+    },
+    {
+      "brand": "Oppo",
+      "codename": "OP6210L1",
+      "model": "CPH2909",
+      "marketName": "A7 Pro Max 5G"
     },
     {
       "brand": "Oppo",
@@ -12357,6 +12363,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "a03su",
+      "model": "SM-S135DL",
+      "marketName": "Galaxy A03s"
+    },
+    {
+      "brand": "Samsung",
       "codename": "a04",
       "model": "SM-A045F",
       "marketName": "Galaxy A04"
@@ -16935,6 +16947,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "m47xq",
+      "model": "SM-E476B",
+      "marketName": "Galaxy F70 Pro 5G"
+    },
+    {
+      "brand": "Samsung",
       "codename": "a07x",
       "model": "SM-E076B",
       "marketName": "Galaxy F70e 5G"
@@ -19125,6 +19143,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "a32x",
+      "model": "SM-A326K",
+      "marketName": "Galaxy Jump"
+    },
+    {
+      "brand": "Samsung",
       "codename": "m33x",
       "model": "SM-M336K",
       "marketName": "Galaxy Jump2"
@@ -19584,6 +19608,12 @@
       "codename": "a42xq",
       "model": "SM-M426B",
       "marketName": "Galaxy M42 5G"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "m47xq",
+      "model": "SM-M476B",
+      "marketName": "Galaxy M47 5G"
     },
     {
       "brand": "Samsung",
@@ -27417,6 +27447,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "gtact4prowifi",
+      "model": "SM-T630",
+      "marketName": "Galaxy Tab Active4 Pro"
+    },
+    {
+      "brand": "Samsung",
       "codename": "gtact4pro",
       "model": "SM-T636B",
       "marketName": "Galaxy Tab Active4 Pro 5G"
@@ -32085,6 +32121,12 @@
     },
     {
       "brand": "Samsung",
+      "codename": "gthhwifi",
+      "model": "SM-T270",
+      "marketName": "SmartThings Home Tablet"
+    },
+    {
+      "brand": "Samsung",
       "codename": "SCH-R730",
       "model": "SCH-R730",
       "marketName": "Transfix"
@@ -32184,6 +32226,18 @@
       "codename": "e4q",
       "model": "SM-W7023",
       "marketName": "心系天下 三星 W23 Flip"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "v5q",
+      "model": "SM-W9024",
+      "marketName": "心系天下 三星 W24"
+    },
+    {
+      "brand": "Samsung",
+      "codename": "e5q",
+      "model": "SM-W7024",
+      "marketName": "心系天下 三星 W24 Flip"
     },
     {
       "brand": "Samsung",
